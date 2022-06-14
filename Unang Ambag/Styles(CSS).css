@@ -1,0 +1,206 @@
+/*******************************(TOP OF MAIN FILE(DO NOT TOUCH)*************************/
+
+body {
+    margin: 0%;
+    font-family: 'Sacramento', cursive;
+}
+p {
+    line-height: 2;
+}
+.dar {
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+    left: 250px;
+    color: #66bfbf;
+}
+.pog {
+    font-size: 3.125rem;
+    font-weight: normal;
+    position: relative;
+    top: 150px;
+    left: 320px;
+    color: #66bfbf;
+}
+.top {
+    background-color: #22577A;
+    position: relative;
+    height: 700px;
+}
+.topcloud {
+    mix-blend-mode: multiply;
+    position: absolute;
+    left: 350px;
+    top: 200px; ;
+}
+.bottomcloud {
+    mix-blend-mode: multiply;
+    position: absolute;
+    left: 850px;
+    top: 200px;
+}
+.mountain {
+    mix-blend-mode: multiply;
+    position:absolute;
+    left: 763px;
+    top: 200px;
+}
+.mount {
+    mix-blend-mode: multiply;
+    position: absolute;
+    left: 0;
+    top: 200px;
+}
+
+/**************************TOP OF MAIN FILE(DO NOT TOUCH)************************/
+
+.middle-container {
+    margin: 100px 0 100px 0;
+}
+.profile {
+    position: relative;
+    left: 250px;
+    font-family: sans-serif;
+    font-size: 100%;
+    color: #C36839;
+    width: 800px;
+    height: 272px;
+}
+.contact-me {
+    text-align: center;
+    position: relative;
+    left: 230px;
+    font-family: sans-serif;
+    font-size: 100%;
+    color: #C36839;
+    width: 800px;
+    height: 272px;
+}
+.get {
+    color: #22577A;
+    font-size: 50px;
+}
+.baba {
+    position: relative;
+    font-family: sans-serif;
+}
+.win {
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+}
+hr {
+    border-width: 50px;
+    width: 50%;
+}
+h3 {
+    color: #11999e;
+}
+.skill-row {
+    position: relative;
+    left: 250px;
+    font-family: sans-serif;
+    font-size: 100%;
+    color: #C36839;
+    width: 800px;
+    height: 150px;
+}
+.kobe {
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+}
+.kirby {
+    border-radius: 100%;
+    float: right;
+}
+/*******************************TAPOS NA MIDDLE CONTAINER!!!!!!********************************************/
+.footer-link {
+    color: #11999e;
+
+}
+.bottom-container {
+    text-align: center;
+    background-color: silver;
+    position: relative;
+    font-family: sans-serif;
+    font-size: 100%;
+    color: #C36839;
+    padding: 60px 0 20px;
+}
+a {
+    color: #11999e;
+    font-family: fantasy;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #ea9696;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn {
+        background: #d41390;
+        background-image: -webkit-linear-gradient(top, #d41390, #f5a225);
+        background-image: -moz-linear-gradient(top, #d41390, #f5a225);
+        background-image: -ms-linear-gradient(top, #d41390, #f5a225);
+        background-image: -o-linear-gradient(top, #d41390, #f5a225);
+        background-image: linear-gradient(to bottom, #d41390, #f5a225);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: 'sacramento',cursive;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+}
+      
+.btn:hover {
+        background: #d43939;
+        background-image: -webkit-linear-gradient(top, #d43939, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #d43939, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #d43939, #2bc4ad);
+        background-image: -o-linear-gradient(top, #d43939, #2bc4ad);
+        background-image: linear-gradient(to bottom, #d43939, #2bc4ad);
+        text-decoration: none;
+      }
+/**********************************************THIS IS FOR BOOTSTRAP ONLY!!!!!******************************/
+
+
+      
+/*********************************BELOW THIS COMMENT IS FOR SECONDARY.HTML ONLY*****************************/
+.container{
+    background-color:grey;
+    height:300px;
+    position:relative;
+    width:300px;
+  }
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position:absolute;
+    bottom:0px;
+    right:0px
+      
+  }
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    position:absolute;
+    left:100px;
+    top:100px;
+  }
+.yellow {
+    width:100px;
+    height:100px;
+    background-color:yellow;
+    position:absolute;
+    top:0px;
+  }
+  
